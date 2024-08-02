@@ -12,6 +12,6 @@ Projects created using Verilog HDL which can be implemented on FPGA Development 
 
 ## 5. Full Adder, Ripple Carry Adder, Subtractor [ link ](https://github.com/shreegw/FPGA-Projects/tree/main/Adder%2C%20RCA%2C%20Subtractor)
 
-
+## 6. 16-Bit Pseudo Random Number Generator [ link ]()
 
 
