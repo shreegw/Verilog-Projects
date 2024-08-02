@@ -4,7 +4,7 @@ Projects created using Verilog HDL which can be implemented on FPGA Development 
 
 ## 1. FPGA Air Conditioner Controller [ link ](https://github.com/shreegw/FPGA-Thermostat-Controller)
 
-## 2. RISC V Architecture using verilog [ link ]() 
+## 2. RISC V Architecture using verilog [ link ](https://github.com/shreegw/RISC-V-Projects) 
 
 ## 3. I2C Implementation [ link ]() 
 
