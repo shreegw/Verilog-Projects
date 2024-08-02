@@ -8,9 +8,9 @@ module counter(CLK, CLR, pause, updown, Q);
     output [3:0] Q;
     reg [3:0] tmp;
     
-    always @(posedge CLK or negedge CLR)//(negedge clr)
+    always @(posedge CLK or negedge CLR) // asynchronous reset with active low input
     begin
-    if (CLR==1'b0)//(CLR==1'b0) 
+    if (CLR==1'b0) // 
         tmp = 4'b0000;
     else if (pause) begin
         tmp = tmp - 1'b1;
