@@ -8,7 +8,7 @@ Projects created using Verilog HDL which can be implemented on FPGA Development 
 
 ## 3. I2C Implementation [ link ]() 
 
-## 4. Up-Down Counter with 7 Segment Display [ link ](https://github.com/shreegw/FPGA-Projects/tree/main/7-Segment%20Display)
+## 4. Up-Down Counter with 7 Segment Display [ link ](https://github.com/shreegw/Verilog-and-Projects/tree/main/2.%20Up-Down%20Counter%20)
 
 ## 5. Full Adder, Ripple Carry Adder, Subtractor [ link ](https://github.com/shreegw/FPGA-Projects/tree/main/Adder%2C%20RCA%2C%20Subtractor)
 
