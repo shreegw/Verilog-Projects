@@ -20,7 +20,7 @@
 ### 5. 16-Bit Pseudo Random Number Generator [ link ](https://github.com/shreegw/Verilog-and-Projects/tree/main/3.%2016%20Bit%20LFSR%20PRNG)
 - Pseudo Random Number Generator with configurable number of Taps and a maximum period of 2^n^ - 1, where n is number of bits i.e. 16. A PRNG with LFSR is used in casual applications such as Games, temporary verification techniques, etc.
 
-### 6. Hamming (7,4)
+### 6. Hamming (7,4) [ link ](https://github.com/shreegw/Verilog-and-Projects/tree/main/4.%20Hamming%20(7%2C4))
 - World's First Error correcting code which can encode 4 bits of data using 3 parity bits and a decoder which has the ability to detect the bit position where the bit flip has happened.  
 
 ## Work in Progress 
