@@ -15,7 +15,7 @@
 - An n-Bit Full Adder, Ripple Carry Adder and Subtractor created by cascading half adders with synchronous and asynchronous outputs.  
 
 ### 4. Up-Down Counter with 7 Segment Display [ link ](https://github.com/shreegw/Verilog-and-Projects/tree/main/2.%20Up-Down%20Counter%20)
-- An Up-Down Counter with a clock divider which can reduce the frequency of FPGA to 1Hz connected to a Common Anode 7-Segment Display on the development board.
+- An Up-Down Counter with a clock divider module which can reduce the frequency of FPGA clock to 1Hz connected to a Common Anode 7-Segment Display on the development board.
  
 ### 5. 16-Bit Pseudo Random Number Generator [ link ](https://github.com/shreegw/Verilog-and-Projects/tree/main/3.%2016%20Bit%20LFSR%20PRNG)
 - Pseudo Random Number Generator with configurable number of Taps and a maximum period of 2^n^ - 1, where n is number of bits i.e. 16. A PRNG with LFSR is used in casual applications such as Games, temporary verification techniques, etc.
