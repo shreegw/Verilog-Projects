@@ -1,13 +1,16 @@
 
 # Verilog HDL Projects
 
-## ASIC Projects
+## Major Projects
 
 ### 1. FPGA Air Conditioner Controller [ link ](https://github.com/shreegw/FPGA-Thermostat-Controller)
 - An Air Conditioner Controller Module which displays the room temperature read from the temperature sensor and determines if Air Conditioner or Heater needs to be turned on.  
 
 ### 2. RISC V Architecture using verilog [ link ](https://github.com/shreegw/RISC-V-Projects) 
 - Designed a working 32 Bit RISC-V Architecture with the key components such as Program Counter, Instruction Memory, Arithmetic Logic Unit, SRAM, Data Memory, Control unit.
+
+### 3. Booth's Multiplier Algorithm [link](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
+- High Speed Booth's Multiplier that multiplies two 4 bit numbers and gives an 8 bit output. This multiplier can multiply signed and unsigned numbers in 2s complement format. 
 
 ## Hobby Projects
 
