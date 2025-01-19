@@ -14,7 +14,7 @@
 
 ## Hobby Projects
 
-### 3. Full Adder, Ripple Carry Adder, Subtractor [ link ]([https://github.com/shreegw/FPGA-Projects/tree/main/Adder%2C%20RCA%2C%20Subtractor](https://github.com/shreegw/Verilog-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor))
+### 3. Full Adder, Ripple Carry Adder, Subtractor [ link ](https://github.com/shreegw/Verilog-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor)
 - An n-Bit Full Adder, Ripple Carry Adder and Subtractor created by cascading half adders with synchronous and asynchronous outputs.  
 
 ### 4. Up-Down Counter with 7 Segment Display [ link ](https://github.com/shreegw/Verilog-and-Projects/tree/main/2.%20Up-Down%20Counter%20)
