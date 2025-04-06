@@ -27,11 +27,11 @@
 - World's First Error correcting code which can encode 4 bits of data using 3 parity bits and a decoder which has the ability to detect the bit position where the bit flip has happened.  
 
 ## Work in Progress 
-### 6. Communication Protocols in Verilog (In Progress)
-- Various Communication Protocols Implementation using Verilog which includes SPI, I2C, PCIe, Ethernet, UART, etc. 
+### 6. Hardware Security Module (Lightweight Trusted Platform Module)(In Progress)
+- A smallscale TPM on an FPGA. 
 
-### 7. Finite State Machine for Trading (In Progress)
-- Stock Trading project which can buy, sell, hold stocks based on the inputs given by the user, implemented with Finite State Machine design with low latency.
+### 7. Cryptography Algorithms(In Progress)
+- Cryptography Algorithms such as AES, RSA, SHA using verilog and implementing them on FPGA. 
 
 ### 8. Linear Regression using FPGAs (In Progress)
 - Implementing Linear regression in FPGA Development 
