@@ -12,6 +12,9 @@
 ### 3. Booth's Multiplier Algorithm [link](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
 - High Speed Booth's Multiplier that multiplies two 4 bit numbers and gives an 8 bit output. This multiplier can multiply signed and unsigned numbers in 2s complement format. 
 
+### 4. UART Module [link](shreegw/Verilog-Projects/7. UART Module/UART_July8.xpr)
+- High Speed UART Module which recieves 1 Byte at a time and displays on the seven segment display. Implemented the project on Nexys4 DDR FPGA Development board equipped with Artix 7 FPGA 
+
 ## Hobby Projects
 
 ### 3. Full Adder, Ripple Carry Adder, Subtractor [ link ](https://github.com/shreegw/Verilog-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor)
