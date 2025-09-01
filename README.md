@@ -1,7 +1,7 @@
 
 # Verilog HDL Projects
 
-## ASIC Projects
+## ASIC Projects 
 
 ### 1. FPGA Air Conditioner Controller [ link ](https://github.com/shreegw/FPGA-Thermostat-Controller)
 - An Air Conditioner Controller Module which displays the room temperature read from the temperature sensor and determines if Air Conditioner or Heater needs to be turned on.  
